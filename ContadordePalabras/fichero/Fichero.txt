@@ -1,0 +1,2 @@
+Voy a casa a comer. Comer en casa me gusta mucho. Me gusta comer en casa.
+Scala es un lenguaje funcional. Scala también es orientado a objetos.
